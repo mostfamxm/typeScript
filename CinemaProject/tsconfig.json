@@ -1,0 +1,12 @@
+//ctrl + space - basic setting
+//we shuold create our project in the same doucment the this fil is in
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
