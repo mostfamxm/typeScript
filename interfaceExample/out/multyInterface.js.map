@@ -1,0 +1,1 @@
+{"version":3,"file":"multyInterface.js","sourceRoot":"","sources":["../multyInterface.ts"],"names":[],"mappings":"AAmBA,MAAM,MAAM;IAKR,WAAW,CAAC,IAAY,EAAE,IAAY;QAClC,OAAM,oBAAoB,IAAI,uBAAuB,IAAI,EAAE,CAAC;IAChE,CAAC;IACD,aAAa,CAAC,SAAiB;QAC3B,OAAM,oBAAoB,SAAS,EAAE,CAAA;IACzC,CAAC;IAGD,YAAY,CAAC,KAAa;QACtB,OAAM,mBAAmB,KAAK,EAAE,CAAC;IACrC,CAAC;CACJ"}
